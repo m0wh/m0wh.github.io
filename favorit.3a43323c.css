@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Favorit';
+  src: url('/favorit-bold.31285f03.woff2') format('woff2'), url('/favorit-bold.43a2cab1.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Favorit';
+  src: url('/favorit-boldita.7d2f3298.woff2') format('woff2'), url('/favorit-boldita.00634db1.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Favorit';
+  src: url('/favorit-regular.19416246.woff2') format('woff2'), url('/favorit-regular.5129275d.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Favorit';
+  src: url('/favorit-regularita.60ab88c9.woff2') format('woff2'), url('/favorit-regularita.f2f930fd.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Favorit Lining';
+  src: url('/favoritlining-bold.591f785c.woff2') format('woff2'), url('/favoritlining-bold.29cfc84b.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Favorit Lining';
+  src: url('/favoritlining-boldita.9ecef039.woff2') format('woff2'), url('/favoritlining-boldita.ffb75c83.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Favorit Lining';
+  src: url('/favoritlining-regular.2a9597a6.woff2') format('woff2'), url('/favoritlining-regular.4994d758.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Favorit Lining';
+  src: url('/favoritlining-regularita.403c3ef5.woff2') format('woff2'), url('/favoritlining-regularita.8ea74d46.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/*# sourceMappingURL=/favorit.3a43323c.css.map */

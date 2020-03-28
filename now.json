@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "headers": { "cache-control": "s-maxage=604800" },
+      "dest": "https://m0wh.github.io/$1"
+    }
+  ]
+}
